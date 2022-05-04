@@ -1,0 +1,21 @@
+[submodule "MiVOS"]
+	path = MiVOS
+	url = git@github.com:niemiaszek/MiVOS.git
+[submodule "Mask2Former"]
+	path = Mask2Former
+	url = git@github.com:niemiaszek/Mask2Former.git
+[submodule "detectron2"]
+	path = detectron2
+	url = git@github.com:niemiaszek/detectron2.git
+[submodule "RAFT"]
+	path = RAFT
+	url = git@github.com:niemiaszek/RAFT.git
+[submodule "E2FGVI"]
+	path = E2FGVI
+	url = git@github.com:MCG-NKU/E2FGVI.git
+[submodule "RealBasicVSR"]
+	path = RealBasicVSR
+	url = https://github.com/ckkelvinchan/RealBasicVSR
+[submodule "omnimatte"]
+	path = omnimatte
+	url = https://github.com/erikalu/omnimatte
